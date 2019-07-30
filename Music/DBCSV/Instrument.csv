@@ -1,0 +1,13 @@
+instrument_code,instrument_ID,typeName,manuName
+1,1,Guitar,yamaha
+2,1,Guitar,pioneer
+3,2,Piano,pioneer
+4,3,Drums,pioneer
+5,3,Drums,yamaha
+6,4,Bass,yamaha
+7,5,Violin,yamaha
+8,6,Cello,yamaha
+9,7,Piccolo,yamaha
+10,8,Saxophone,yamaha
+11,9,Clarinet,pioneer
+12,10,Tuba,pioneer

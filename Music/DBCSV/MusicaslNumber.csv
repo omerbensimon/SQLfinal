@@ -1,0 +1,11 @@
+musical_ID,musical_name,author_name,compsure_name,genere,RecordDate,length_sec,technicianID
+1,Mimaamakim,"john mayer","shlomo arzi",Classic,"2019-03-10 00:00:00",186,321111111
+2,"IDF march","john mayer","shlomo arzi",Indie,"2012-04-10 00:00:00",190,321111112
+3,"Love is all you need","john mayer","john mayer",Classic,"2012-03-11 00:00:00",194,321111113
+4,"beautiful song","john mayer","john mayer",Classic,"2012-03-13 00:00:00",198,321111112
+5,"someone  to love","john mayer","john mayer",Indie,"2012-03-14 00:00:00",202,321111113
+6,"Tik Tok","elthon john","shlomo arzi",Rock,"2012-03-15 00:00:00",202,321111111
+7,"children of 73","elthon john","shlomo arzi",Classic,"1975-03-10 00:00:00",210,321111111
+8,everything,"elthon john","shlomo arzi",Classic,"2012-03-12 00:00:00",214,321111114
+9,"colors of the wind","elthon john","shlomo arzi",Classic,"2012-03-13 00:00:00",218,321111116
+10,gravity,"elthon john","shlomo arzi",Pop,"1999-03-14 00:00:00",222,321111116
